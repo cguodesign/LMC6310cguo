@@ -1,6 +1,8 @@
 ###
 ### P1
 ### CHONG GUO
+### Can't save and share on EarSketch social website
+### github link: https://github.com/ginrain/LMC6310cguo/blob/master/p1.py
 ###
 
 from earsketch import *
